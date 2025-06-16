@@ -1,0 +1,5 @@
+try {
+	org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper.launchBeautyEyeLNF();
+} catch (Exception e) {
+	e.printStackTrace();
+}
