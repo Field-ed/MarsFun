@@ -16,7 +16,7 @@ an easy exercising product : a typing-exercising website
   - 自动保存练习记录，包括练习日期、文本名称、准确率和速度。
   - 提供统计信息面板，展示历史练习记录和平均数据。
 - **用户友好界面**
-  - 使用 Java Swing 构建，支持多种语言界面（包括但不限于中文、英文、俄文）。
+  - 使用 Java Swing 构建。
   - 提供清晰的进度反馈和实时统计信息。
 
 ## 运行环境
